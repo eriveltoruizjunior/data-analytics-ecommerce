@@ -1,0 +1,941 @@
+id_pedido,data,id_cliente,produto,categoria,quantidade,preco_unitario,valor_total,forma_pagamento,estado
+1,2026-01-01,11,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,GO
+2,2026-01-01,22,Mochila,Esporte,4,149.9,599.6,Boleto,SC
+3,2026-01-01,126,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Débito,PE
+4,2026-01-02,2,Notebook,Eletronicos,1,3499.9,3499.9,Cartão de Crédito,PR
+5,2026-01-02,15,Camiseta,Esporte,3,79.9,239.7,Boleto,GO
+6,2026-01-02,82,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Débito,SC
+7,2026-01-02,119,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Crédito,RS
+8,2026-01-02,128,Cadeira Gamer,Móveis,1,899.9,899.9,Boleto,ES
+9,2026-01-02,136,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Boleto,PE
+10,2026-01-02,137,Camiseta,Esporte,2,79.9,159.8,Cartão de Crédito,GO
+11,2026-01-03,5,Relógio Smart,Eletronicos,5,399.9,1999.5,PIX,PR
+12,2026-01-04,68,Camiseta,Esporte,3,79.9,239.7,Cartão de Crédito,MG
+13,2026-01-04,96,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,BA
+14,2026-01-04,119,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,SP
+15,2026-01-05,52,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,PE
+16,2026-01-05,65,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,MG
+17,2026-01-06,102,Notebook,Eletronicos,2,3499.9,6999.8,Boleto,MG
+18,2026-01-07,82,Notebook,Eletronicos,3,3499.9,10499.7,PIX,ES
+19,2026-01-07,84,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,SC
+20,2026-01-07,110,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Débito,PR
+21,2026-01-07,117,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,GO
+22,2026-01-08,26,Teclado Mecânico,Eletronicos,2,299.9,599.8,Cartão de Crédito,SC
+23,2026-01-08,81,Tênis Esportivo,Esporte,4,299.9,1199.6,Boleto,RJ
+24,2026-01-08,105,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,ES
+25,2026-01-09,22,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Débito,BA
+26,2026-01-09,56,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,RS
+27,2026-01-09,107,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Débito,ES
+28,2026-01-10,25,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,SC
+29,2026-01-10,68,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,SC
+30,2026-01-10,68,Smartphone,Eletronicos,3,1899.9,5699.7,PIX,RS
+31,2026-01-11,25,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,SC
+32,2026-01-11,61,Smartphone,Eletronicos,1,1899.9,1899.9,PIX,ES
+33,2026-01-11,64,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,RS
+34,2026-01-11,95,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Débito,PE
+35,2026-01-11,122,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,GO
+36,2026-01-12,10,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,RS
+37,2026-01-12,29,Camiseta,Esporte,4,79.9,319.6,Boleto,GO
+38,2026-01-12,49,Mochila,Esporte,3,149.9,449.7,Cartão de Crédito,BA
+39,2026-01-12,53,Camiseta,Esporte,5,79.9,399.5,Cartão de Débito,MG
+40,2026-01-12,85,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,GO
+41,2026-01-12,124,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,SP
+42,2026-01-12,139,Smartphone,Eletronicos,3,1899.9,5699.7,PIX,PE
+43,2026-01-13,52,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,PR
+44,2026-01-13,63,Tênis Esportivo,Esporte,4,299.9,1199.6,Boleto,SC
+45,2026-01-13,67,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,SP
+46,2026-01-13,78,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Crédito,RJ
+47,2026-01-13,102,Fone Bluetooth,Eletronicos,5,199.9,999.5,Boleto,GO
+48,2026-01-14,16,Camiseta,Esporte,2,79.9,159.8,PIX,SP
+49,2026-01-14,22,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Débito,PR
+50,2026-01-14,64,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,RS
+51,2026-01-14,118,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,RS
+52,2026-01-14,134,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,ES
+53,2026-01-15,4,Smartphone,Eletronicos,5,1899.9,9499.5,Boleto,PE
+54,2026-01-15,45,Camiseta,Esporte,5,79.9,399.5,PIX,SC
+55,2026-01-15,46,Camiseta,Esporte,3,79.9,239.7,PIX,PR
+56,2026-01-15,71,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Débito,SP
+57,2026-01-16,4,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,GO
+58,2026-01-16,15,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,ES
+59,2026-01-16,23,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Débito,BA
+60,2026-01-16,75,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Crédito,GO
+61,2026-01-16,102,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Crédito,GO
+62,2026-01-16,106,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,PR
+63,2026-01-16,130,Tênis Esportivo,Esporte,2,299.9,599.8,PIX,RS
+64,2026-01-17,53,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,RJ
+65,2026-01-18,4,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Crédito,GO
+66,2026-01-18,30,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,PR
+67,2026-01-18,72,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,GO
+68,2026-01-18,74,Notebook,Eletronicos,5,3499.9,17499.5,PIX,BA
+69,2026-01-18,78,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,PE
+70,2026-01-18,86,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,SP
+71,2026-01-18,137,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Crédito,ES
+72,2026-01-19,3,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,BA
+73,2026-01-19,71,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Débito,PR
+74,2026-01-19,93,Smart TV,Eletronicos,4,2499.9,9999.6,PIX,PR
+75,2026-01-20,17,Teclado Mecânico,Eletronicos,2,299.9,599.8,PIX,SC
+76,2026-01-20,30,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,ES
+77,2026-01-20,80,Tênis Esportivo,Esporte,5,299.9,1499.5,PIX,MG
+78,2026-01-20,80,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,ES
+79,2026-01-20,81,Camiseta,Esporte,5,79.9,399.5,Boleto,RS
+80,2026-01-20,93,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Crédito,PE
+81,2026-01-20,121,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Crédito,BA
+82,2026-01-20,125,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Crédito,RS
+83,2026-01-20,148,Cadeira Gamer,Móveis,2,899.9,1799.8,Boleto,RS
+84,2026-01-21,31,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Crédito,BA
+85,2026-01-21,38,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,PR
+86,2026-01-21,54,Mochila,Esporte,5,149.9,749.5,Cartão de Crédito,PE
+87,2026-01-21,76,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,PE
+88,2026-01-21,79,Camiseta,Esporte,4,79.9,319.6,Boleto,ES
+89,2026-01-21,112,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,PR
+90,2026-01-21,112,Mochila,Esporte,2,149.9,299.8,Cartão de Crédito,ES
+91,2026-01-22,50,Fone Bluetooth,Eletronicos,3,199.9,599.7,Boleto,PE
+92,2026-01-22,88,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,RJ
+93,2026-01-22,142,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,BA
+94,2026-01-23,18,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,BA
+95,2026-01-23,59,Camiseta,Esporte,3,79.9,239.7,PIX,PE
+96,2026-01-23,96,Mochila,Esporte,1,149.9,149.9,Boleto,ES
+97,2026-01-23,103,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,GO
+98,2026-01-24,39,Notebook,Eletronicos,1,3499.9,3499.9,Boleto,PR
+99,2026-01-24,48,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,SP
+100,2026-01-24,79,Mochila,Esporte,4,149.9,599.6,Boleto,PE
+101,2026-01-24,102,Camiseta,Esporte,1,79.9,79.9,PIX,BA
+102,2026-01-24,106,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,SP
+103,2026-01-25,3,Mochila,Esporte,3,149.9,449.7,Boleto,GO
+104,2026-01-25,64,Mochila,Esporte,3,149.9,449.7,Cartão de Débito,PE
+105,2026-01-25,117,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,PE
+106,2026-01-25,127,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Débito,RS
+107,2026-01-25,143,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,PE
+108,2026-01-26,51,Camiseta,Esporte,2,79.9,159.8,Cartão de Crédito,SP
+109,2026-01-26,94,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,RS
+110,2026-01-26,137,Tênis Esportivo,Esporte,5,299.9,1499.5,PIX,RJ
+111,2026-01-27,47,Camiseta,Esporte,1,79.9,79.9,Cartão de Crédito,SP
+112,2026-01-27,82,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,GO
+113,2026-01-27,86,Tênis Esportivo,Esporte,4,299.9,1199.6,PIX,PR
+114,2026-01-27,89,Smart TV,Eletronicos,3,2499.9,7499.7,PIX,BA
+115,2026-01-27,93,Camiseta,Esporte,3,79.9,239.7,Cartão de Débito,MG
+116,2026-01-27,116,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Débito,PE
+117,2026-01-28,1,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Crédito,MG
+118,2026-01-28,40,Camiseta,Esporte,5,79.9,399.5,Cartão de Débito,PR
+119,2026-01-28,67,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,RJ
+120,2026-01-28,83,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,GO
+121,2026-01-28,85,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Débito,RJ
+122,2026-01-30,35,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Crédito,GO
+123,2026-01-30,58,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,PE
+124,2026-01-30,87,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Débito,ES
+125,2026-01-30,89,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,PE
+126,2026-01-31,59,Tênis Esportivo,Esporte,3,299.9,899.7,Boleto,RJ
+127,2026-01-31,73,Fone Bluetooth,Eletronicos,5,199.9,999.5,Boleto,PE
+128,2026-01-31,101,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,BA
+129,2026-01-31,117,Relógio Smart,Eletronicos,1,399.9,399.9,PIX,BA
+130,2026-01-31,118,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,GO
+131,2026-02-01,23,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,SC
+132,2026-02-01,92,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,SP
+133,2026-02-02,38,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,GO
+134,2026-02-02,73,Smart TV,Eletronicos,1,2499.9,2499.9,PIX,SC
+135,2026-02-02,107,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,ES
+136,2026-02-02,141,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,MG
+137,2026-02-03,5,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Débito,PR
+138,2026-02-03,33,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Débito,MG
+139,2026-02-03,37,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,PR
+140,2026-02-03,62,Camiseta,Esporte,5,79.9,399.5,PIX,RS
+141,2026-02-03,101,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Débito,RS
+142,2026-02-03,120,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Crédito,PR
+143,2026-02-04,5,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,PE
+144,2026-02-04,59,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Crédito,BA
+145,2026-02-04,88,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,GO
+146,2026-02-05,35,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Débito,BA
+147,2026-02-05,50,Tênis Esportivo,Esporte,1,299.9,299.9,Boleto,RS
+148,2026-02-05,57,Cadeira Gamer,Móveis,3,899.9,2699.7,Boleto,RS
+149,2026-02-05,66,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,BA
+150,2026-02-05,74,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,ES
+151,2026-02-05,90,Smart TV,Eletronicos,2,2499.9,4999.8,PIX,ES
+152,2026-02-05,138,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,ES
+153,2026-02-06,62,Camiseta,Esporte,3,79.9,239.7,Cartão de Débito,GO
+154,2026-02-06,91,Teclado Mecânico,Eletronicos,3,299.9,899.7,Boleto,GO
+155,2026-02-06,100,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,RJ
+156,2026-02-07,11,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,BA
+157,2026-02-07,50,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,BA
+158,2026-02-07,139,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,RJ
+159,2026-02-08,75,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,PE
+160,2026-02-08,97,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,RJ
+161,2026-02-09,41,Fone Bluetooth,Eletronicos,5,199.9,999.5,PIX,PR
+162,2026-02-09,48,Notebook,Eletronicos,3,3499.9,10499.7,PIX,PE
+163,2026-02-09,49,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,BA
+164,2026-02-09,70,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,GO
+165,2026-02-09,144,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,SC
+166,2026-02-10,5,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,ES
+167,2026-02-10,101,Tênis Esportivo,Esporte,5,299.9,1499.5,PIX,RJ
+168,2026-02-10,146,Notebook,Eletronicos,3,3499.9,10499.7,Boleto,RS
+169,2026-02-11,132,Teclado Mecânico,Eletronicos,3,299.9,899.7,PIX,RS
+170,2026-02-11,141,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,SP
+171,2026-02-12,61,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Crédito,RS
+172,2026-02-12,83,Mochila,Esporte,3,149.9,449.7,Boleto,SC
+173,2026-02-12,101,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Débito,GO
+174,2026-02-12,107,Notebook,Eletronicos,3,3499.9,10499.7,Boleto,SP
+175,2026-02-13,43,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,PR
+176,2026-02-13,83,Mochila,Esporte,2,149.9,299.8,Cartão de Crédito,SC
+177,2026-02-13,142,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Crédito,ES
+178,2026-02-13,146,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Crédito,SP
+179,2026-02-14,37,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Crédito,GO
+180,2026-02-14,86,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,PE
+181,2026-02-14,113,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,ES
+182,2026-02-14,132,Cadeira Gamer,Móveis,1,899.9,899.9,Boleto,SP
+183,2026-02-15,44,Relógio Smart,Eletronicos,4,399.9,1599.6,Boleto,ES
+184,2026-02-16,25,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Boleto,PR
+185,2026-02-17,21,Smartphone,Eletronicos,3,1899.9,5699.7,Boleto,PR
+186,2026-02-17,87,Camiseta,Esporte,3,79.9,239.7,Cartão de Crédito,BA
+187,2026-02-17,136,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,RJ
+188,2026-02-17,150,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,GO
+189,2026-02-18,76,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,BA
+190,2026-02-18,76,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Crédito,ES
+191,2026-02-19,10,Mochila,Esporte,3,149.9,449.7,Cartão de Débito,PR
+192,2026-02-19,11,Mochila,Esporte,4,149.9,599.6,Boleto,RJ
+193,2026-02-19,114,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Crédito,SP
+194,2026-02-20,77,Camiseta,Esporte,2,79.9,159.8,Boleto,ES
+195,2026-02-20,138,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,SP
+196,2026-02-21,59,Fone Bluetooth,Eletronicos,2,199.9,399.8,Boleto,SP
+197,2026-02-21,67,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Débito,MG
+198,2026-02-21,68,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,SP
+199,2026-02-21,103,Cadeira Gamer,Móveis,2,899.9,1799.8,PIX,GO
+200,2026-02-21,106,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Crédito,RS
+201,2026-02-21,148,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,MG
+202,2026-02-22,5,Camiseta,Esporte,2,79.9,159.8,Cartão de Débito,GO
+203,2026-02-22,42,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,SC
+204,2026-02-22,110,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,SC
+205,2026-02-22,116,Tênis Esportivo,Esporte,4,299.9,1199.6,PIX,SP
+206,2026-02-22,144,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,PR
+207,2026-02-23,76,Camiseta,Esporte,3,79.9,239.7,PIX,RJ
+208,2026-02-23,134,Smart TV,Eletronicos,4,2499.9,9999.6,PIX,RJ
+209,2026-02-24,3,Cadeira Gamer,Móveis,2,899.9,1799.8,Boleto,RJ
+210,2026-02-24,136,Mochila,Esporte,5,149.9,749.5,Cartão de Crédito,MG
+211,2026-02-24,138,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Débito,PE
+212,2026-02-24,144,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Débito,PE
+213,2026-02-25,4,Smartphone,Eletronicos,5,1899.9,9499.5,PIX,RS
+214,2026-02-25,35,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,RS
+215,2026-02-25,128,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,PR
+216,2026-02-26,15,Tênis Esportivo,Esporte,4,299.9,1199.6,Boleto,SP
+217,2026-02-26,38,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,BA
+218,2026-02-26,42,Mochila,Esporte,5,149.9,749.5,PIX,SP
+219,2026-02-26,107,Teclado Mecânico,Eletronicos,1,299.9,299.9,Boleto,MG
+220,2026-02-26,133,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Débito,RS
+221,2026-02-26,145,Camiseta,Esporte,1,79.9,79.9,PIX,GO
+222,2026-02-26,149,Teclado Mecânico,Eletronicos,2,299.9,599.8,PIX,PE
+223,2026-02-27,23,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Crédito,PR
+224,2026-02-27,26,Notebook,Eletronicos,4,3499.9,13999.6,PIX,MG
+225,2026-02-27,89,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,BA
+226,2026-02-27,138,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Crédito,BA
+227,2026-02-27,147,Teclado Mecânico,Eletronicos,2,299.9,599.8,Boleto,GO
+228,2026-03-01,19,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,PR
+229,2026-03-02,105,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Débito,ES
+230,2026-03-02,121,Smartphone,Eletronicos,1,1899.9,1899.9,PIX,PR
+231,2026-03-03,22,Fone Bluetooth,Eletronicos,5,199.9,999.5,PIX,MG
+232,2026-03-03,53,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Débito,MG
+233,2026-03-03,62,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,BA
+234,2026-03-03,133,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,SP
+235,2026-03-04,36,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Crédito,PR
+236,2026-03-04,77,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,SC
+237,2026-03-04,79,Smart TV,Eletronicos,3,2499.9,7499.7,PIX,SP
+238,2026-03-04,97,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Débito,GO
+239,2026-03-04,99,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,RJ
+240,2026-03-05,22,Notebook,Eletronicos,5,3499.9,17499.5,Boleto,ES
+241,2026-03-05,47,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,RS
+242,2026-03-05,62,Fone Bluetooth,Eletronicos,1,199.9,199.9,PIX,SC
+243,2026-03-05,69,Smartphone,Eletronicos,3,1899.9,5699.7,Boleto,RJ
+244,2026-03-05,105,Smart TV,Eletronicos,3,2499.9,7499.7,PIX,RJ
+245,2026-03-05,148,Tênis Esportivo,Esporte,1,299.9,299.9,Boleto,RS
+246,2026-03-06,16,Notebook,Eletronicos,4,3499.9,13999.6,PIX,PE
+247,2026-03-06,54,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Débito,RS
+248,2026-03-06,116,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Débito,GO
+249,2026-03-06,139,Mochila,Esporte,2,149.9,299.8,Boleto,RS
+250,2026-03-07,33,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,PR
+251,2026-03-07,44,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Crédito,PR
+252,2026-03-07,107,Notebook,Eletronicos,1,3499.9,3499.9,PIX,GO
+253,2026-03-07,133,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,PE
+254,2026-03-07,143,Relógio Smart,Eletronicos,2,399.9,799.8,PIX,SC
+255,2026-03-08,16,Mochila,Esporte,3,149.9,449.7,Cartão de Crédito,BA
+256,2026-03-08,108,Notebook,Eletronicos,1,3499.9,3499.9,Cartão de Débito,MG
+257,2026-03-08,112,Camiseta,Esporte,1,79.9,79.9,PIX,GO
+258,2026-03-08,115,Notebook,Eletronicos,3,3499.9,10499.7,PIX,GO
+259,2026-03-09,4,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,PE
+260,2026-03-09,89,Camiseta,Esporte,1,79.9,79.9,Boleto,PR
+261,2026-03-09,107,Smart TV,Eletronicos,2,2499.9,4999.8,PIX,RS
+262,2026-03-09,111,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Débito,RJ
+263,2026-03-09,122,Relógio Smart,Eletronicos,1,399.9,399.9,PIX,MG
+264,2026-03-10,111,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Crédito,PR
+265,2026-03-10,150,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,RS
+266,2026-03-11,14,Camiseta,Esporte,3,79.9,239.7,PIX,MG
+267,2026-03-11,101,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Crédito,MG
+268,2026-03-12,55,Smartphone,Eletronicos,1,1899.9,1899.9,Boleto,RS
+269,2026-03-12,91,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,MG
+270,2026-03-12,92,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,PR
+271,2026-03-12,116,Camiseta,Esporte,3,79.9,239.7,Cartão de Débito,SC
+272,2026-03-12,137,Camiseta,Esporte,2,79.9,159.8,Cartão de Débito,BA
+273,2026-03-12,144,Mochila,Esporte,2,149.9,299.8,Boleto,PE
+274,2026-03-12,149,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,GO
+275,2026-03-13,87,Notebook,Eletronicos,5,3499.9,17499.5,PIX,PE
+276,2026-03-13,113,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Crédito,MG
+277,2026-03-13,125,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Crédito,PE
+278,2026-03-13,140,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Crédito,MG
+279,2026-03-14,21,Relógio Smart,Eletronicos,4,399.9,1599.6,Boleto,RS
+280,2026-03-14,27,Tênis Esportivo,Esporte,5,299.9,1499.5,Boleto,MG
+281,2026-03-14,42,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,SP
+282,2026-03-14,68,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,MG
+283,2026-03-15,51,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,BA
+284,2026-03-15,88,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Débito,BA
+285,2026-03-16,42,Camiseta,Esporte,1,79.9,79.9,PIX,BA
+286,2026-03-16,43,Notebook,Eletronicos,4,3499.9,13999.6,PIX,RS
+287,2026-03-17,19,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Crédito,SC
+288,2026-03-17,33,Camiseta,Esporte,4,79.9,319.6,Cartão de Crédito,RJ
+289,2026-03-17,54,Camiseta,Esporte,1,79.9,79.9,PIX,RS
+290,2026-03-17,81,Smart TV,Eletronicos,1,2499.9,2499.9,PIX,SC
+291,2026-03-17,132,Relógio Smart,Eletronicos,2,399.9,799.8,PIX,MG
+292,2026-03-17,133,Smart TV,Eletronicos,5,2499.9,12499.5,Boleto,PE
+293,2026-03-17,147,Camiseta,Esporte,1,79.9,79.9,Cartão de Débito,PE
+294,2026-03-18,110,Smart TV,Eletronicos,1,2499.9,2499.9,PIX,GO
+295,2026-03-18,119,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Débito,GO
+296,2026-03-19,83,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,PR
+297,2026-03-20,7,Camiseta,Esporte,1,79.9,79.9,Cartão de Débito,RJ
+298,2026-03-20,69,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Débito,PR
+299,2026-03-20,88,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,MG
+300,2026-03-20,101,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,PR
+301,2026-03-21,17,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Boleto,RJ
+302,2026-03-21,119,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,PE
+303,2026-03-22,80,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,GO
+304,2026-03-22,129,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,RJ
+305,2026-03-23,74,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,RJ
+306,2026-03-23,95,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,RS
+307,2026-03-23,104,Teclado Mecânico,Eletronicos,2,299.9,599.8,PIX,SC
+308,2026-03-23,137,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Débito,ES
+309,2026-03-24,1,Relógio Smart,Eletronicos,1,399.9,399.9,PIX,RS
+310,2026-03-24,25,Notebook,Eletronicos,4,3499.9,13999.6,PIX,PE
+311,2026-03-24,28,Smart TV,Eletronicos,2,2499.9,4999.8,Boleto,RJ
+312,2026-03-24,45,Camiseta,Esporte,2,79.9,159.8,Boleto,PR
+313,2026-03-24,76,Tênis Esportivo,Esporte,4,299.9,1199.6,Boleto,PE
+314,2026-03-24,97,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,SC
+315,2026-03-25,16,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,GO
+316,2026-03-25,70,Cadeira Gamer,Móveis,4,899.9,3599.6,PIX,RJ
+317,2026-03-25,91,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,BA
+318,2026-03-25,96,Mochila,Esporte,5,149.9,749.5,PIX,SC
+319,2026-03-25,101,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,RS
+320,2026-03-26,10,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Débito,MG
+321,2026-03-26,30,Notebook,Eletronicos,4,3499.9,13999.6,PIX,PE
+322,2026-03-26,47,Notebook,Eletronicos,5,3499.9,17499.5,Boleto,SC
+323,2026-03-26,68,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Débito,MG
+324,2026-03-26,107,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,RS
+325,2026-03-26,123,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,PR
+326,2026-03-27,83,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,BA
+327,2026-03-27,83,Mochila,Esporte,5,149.9,749.5,Cartão de Crédito,SC
+328,2026-03-27,96,Mochila,Esporte,3,149.9,449.7,PIX,SC
+329,2026-03-29,86,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Crédito,PE
+330,2026-03-30,28,Camiseta,Esporte,5,79.9,399.5,Boleto,BA
+331,2026-03-30,31,Teclado Mecânico,Eletronicos,3,299.9,899.7,Boleto,SC
+332,2026-03-30,67,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,RJ
+333,2026-03-30,96,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Débito,MG
+334,2026-03-31,5,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,SC
+335,2026-03-31,50,Smartphone,Eletronicos,4,1899.9,7599.6,PIX,GO
+336,2026-03-31,66,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Débito,PR
+337,2026-03-31,90,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,RS
+338,2026-04-01,39,Mochila,Esporte,1,149.9,149.9,Cartão de Débito,ES
+339,2026-04-01,87,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Crédito,SC
+340,2026-04-01,117,Smart TV,Eletronicos,3,2499.9,7499.7,Boleto,RS
+341,2026-04-01,148,Cadeira Gamer,Móveis,5,899.9,4499.5,PIX,SC
+342,2026-04-01,148,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,MG
+343,2026-04-02,81,Cadeira Gamer,Móveis,4,899.9,3599.6,Boleto,MG
+344,2026-04-02,135,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Débito,SC
+345,2026-04-03,48,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,RS
+346,2026-04-03,56,Mochila,Esporte,5,149.9,749.5,PIX,ES
+347,2026-04-03,59,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Débito,BA
+348,2026-04-03,110,Smartphone,Eletronicos,4,1899.9,7599.6,PIX,SC
+349,2026-04-03,140,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Crédito,GO
+350,2026-04-04,34,Notebook,Eletronicos,4,3499.9,13999.6,PIX,SC
+351,2026-04-04,64,Mochila,Esporte,3,149.9,449.7,PIX,GO
+352,2026-04-04,64,Fone Bluetooth,Eletronicos,2,199.9,399.8,Boleto,PE
+353,2026-04-04,120,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Débito,PE
+354,2026-04-05,54,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,GO
+355,2026-04-05,57,Camiseta,Esporte,4,79.9,319.6,PIX,ES
+356,2026-04-05,99,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Débito,ES
+357,2026-04-05,114,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,PR
+358,2026-04-05,139,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Crédito,PE
+359,2026-04-06,1,Fone Bluetooth,Eletronicos,5,199.9,999.5,PIX,ES
+360,2026-04-06,47,Tênis Esportivo,Esporte,4,299.9,1199.6,Boleto,RS
+361,2026-04-06,92,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,SC
+362,2026-04-06,96,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,SP
+363,2026-04-06,102,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Débito,PR
+364,2026-04-06,113,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Débito,SC
+365,2026-04-06,117,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,BA
+366,2026-04-06,123,Camiseta,Esporte,2,79.9,159.8,PIX,GO
+367,2026-04-07,73,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,RS
+368,2026-04-07,84,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Débito,PR
+369,2026-04-07,116,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,RJ
+370,2026-04-08,9,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Crédito,RJ
+371,2026-04-08,30,Camiseta,Esporte,4,79.9,319.6,PIX,ES
+372,2026-04-08,93,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,PE
+373,2026-04-08,111,Camiseta,Esporte,2,79.9,159.8,Boleto,SP
+374,2026-04-08,150,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,RS
+375,2026-04-09,47,Relógio Smart,Eletronicos,5,399.9,1999.5,PIX,BA
+376,2026-04-09,54,Camiseta,Esporte,2,79.9,159.8,Boleto,BA
+377,2026-04-09,62,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Crédito,MG
+378,2026-04-09,88,Mochila,Esporte,2,149.9,299.8,Boleto,PE
+379,2026-04-09,113,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,SP
+380,2026-04-10,80,Cadeira Gamer,Móveis,3,899.9,2699.7,Boleto,MG
+381,2026-04-10,87,Teclado Mecânico,Eletronicos,4,299.9,1199.6,PIX,RS
+382,2026-04-12,71,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Crédito,ES
+383,2026-04-12,135,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Crédito,PE
+384,2026-04-13,43,Cadeira Gamer,Móveis,1,899.9,899.9,Boleto,SC
+385,2026-04-13,123,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,BA
+386,2026-04-14,114,Fone Bluetooth,Eletronicos,5,199.9,999.5,PIX,MG
+387,2026-04-14,117,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,RS
+388,2026-04-15,4,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,GO
+389,2026-04-15,15,Camiseta,Esporte,5,79.9,399.5,Boleto,GO
+390,2026-04-15,19,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Crédito,BA
+391,2026-04-15,99,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Débito,SP
+392,2026-04-15,118,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Crédito,RS
+393,2026-04-16,8,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Débito,GO
+394,2026-04-16,129,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,PE
+395,2026-04-17,53,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Débito,PR
+396,2026-04-17,65,Teclado Mecânico,Eletronicos,3,299.9,899.7,PIX,ES
+397,2026-04-17,112,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,PR
+398,2026-04-17,131,Camiseta,Esporte,5,79.9,399.5,PIX,SP
+399,2026-04-18,120,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Débito,ES
+400,2026-04-18,143,Camiseta,Esporte,1,79.9,79.9,Boleto,RJ
+401,2026-04-19,6,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,RS
+402,2026-04-20,16,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Crédito,SP
+403,2026-04-20,38,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,PR
+404,2026-04-20,86,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,MG
+405,2026-04-20,91,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,RS
+406,2026-04-20,92,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Débito,MG
+407,2026-04-20,94,Camiseta,Esporte,2,79.9,159.8,Cartão de Crédito,SC
+408,2026-04-20,132,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,MG
+409,2026-04-21,10,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,PR
+410,2026-04-22,10,Camiseta,Esporte,3,79.9,239.7,Boleto,ES
+411,2026-04-22,18,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Débito,RJ
+412,2026-04-22,30,Notebook,Eletronicos,1,3499.9,3499.9,Boleto,MG
+413,2026-04-22,43,Smartphone,Eletronicos,4,1899.9,7599.6,PIX,RS
+414,2026-04-22,43,Notebook,Eletronicos,2,3499.9,6999.8,Boleto,ES
+415,2026-04-22,110,Fone Bluetooth,Eletronicos,1,199.9,199.9,PIX,RS
+416,2026-04-23,24,Notebook,Eletronicos,5,3499.9,17499.5,PIX,GO
+417,2026-04-23,50,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,PE
+418,2026-04-23,74,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Crédito,SP
+419,2026-04-24,11,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,MG
+420,2026-04-24,22,Tênis Esportivo,Esporte,5,299.9,1499.5,Boleto,SC
+421,2026-04-24,120,Mochila,Esporte,1,149.9,149.9,Cartão de Débito,BA
+422,2026-04-25,69,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,ES
+423,2026-04-25,82,Cadeira Gamer,Móveis,5,899.9,4499.5,Boleto,PR
+424,2026-04-26,13,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Débito,PE
+425,2026-04-26,64,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,MG
+426,2026-04-26,91,Notebook,Eletronicos,1,3499.9,3499.9,Boleto,PE
+427,2026-04-26,102,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Crédito,PR
+428,2026-04-26,118,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,ES
+429,2026-04-26,150,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Crédito,ES
+430,2026-04-27,12,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Débito,BA
+431,2026-04-27,30,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,MG
+432,2026-04-27,35,Camiseta,Esporte,5,79.9,399.5,Boleto,ES
+433,2026-04-27,41,Camiseta,Esporte,2,79.9,159.8,Cartão de Débito,SC
+434,2026-04-27,78,Camiseta,Esporte,1,79.9,79.9,Boleto,BA
+435,2026-04-27,86,Smart TV,Eletronicos,5,2499.9,12499.5,Boleto,RS
+436,2026-04-27,114,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Crédito,SC
+437,2026-04-28,31,Tênis Esportivo,Esporte,1,299.9,299.9,Boleto,SC
+438,2026-04-28,63,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Débito,SP
+439,2026-04-28,125,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,PR
+440,2026-04-28,128,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,BA
+441,2026-04-28,134,Camiseta,Esporte,1,79.9,79.9,PIX,PR
+442,2026-04-28,150,Camiseta,Esporte,1,79.9,79.9,PIX,RJ
+443,2026-04-29,25,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,PE
+444,2026-04-29,73,Cadeira Gamer,Móveis,4,899.9,3599.6,Boleto,RJ
+445,2026-04-29,102,Notebook,Eletronicos,2,3499.9,6999.8,PIX,SP
+446,2026-04-29,137,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,BA
+447,2026-04-30,3,Smartphone,Eletronicos,1,1899.9,1899.9,PIX,GO
+448,2026-04-30,33,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Crédito,GO
+449,2026-04-30,98,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,PR
+450,2026-04-30,116,Tênis Esportivo,Esporte,5,299.9,1499.5,Boleto,ES
+451,2026-04-30,132,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,RS
+452,2026-05-01,25,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,RS
+453,2026-05-01,45,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,ES
+454,2026-05-01,53,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Débito,SC
+455,2026-05-02,47,Cadeira Gamer,Móveis,2,899.9,1799.8,PIX,BA
+456,2026-05-02,65,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Débito,PR
+457,2026-05-02,65,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Crédito,SP
+458,2026-05-02,75,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Débito,MG
+459,2026-05-02,79,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,PR
+460,2026-05-02,86,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,RS
+461,2026-05-02,112,Teclado Mecânico,Eletronicos,2,299.9,599.8,Boleto,SC
+462,2026-05-02,116,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,RJ
+463,2026-05-04,62,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,ES
+464,2026-05-04,83,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,RJ
+465,2026-05-04,110,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Crédito,ES
+466,2026-05-04,124,Relógio Smart,Eletronicos,1,399.9,399.9,Boleto,BA
+467,2026-05-04,128,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,MG
+468,2026-05-05,13,Smart TV,Eletronicos,3,2499.9,7499.7,Boleto,PR
+469,2026-05-05,137,Camiseta,Esporte,3,79.9,239.7,Cartão de Crédito,RJ
+470,2026-05-07,18,Camiseta,Esporte,2,79.9,159.8,Boleto,RJ
+471,2026-05-08,26,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,GO
+472,2026-05-08,95,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,RS
+473,2026-05-08,103,Mochila,Esporte,5,149.9,749.5,Boleto,SP
+474,2026-05-08,125,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,BA
+475,2026-05-09,61,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,SC
+476,2026-05-09,79,Mochila,Esporte,2,149.9,299.8,PIX,PR
+477,2026-05-09,86,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,BA
+478,2026-05-09,129,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,RS
+479,2026-05-09,138,Cadeira Gamer,Móveis,1,899.9,899.9,Boleto,RS
+480,2026-05-09,138,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,PE
+481,2026-05-09,143,Notebook,Eletronicos,1,3499.9,3499.9,Boleto,MG
+482,2026-05-10,68,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Crédito,PR
+483,2026-05-10,117,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,SC
+484,2026-05-10,138,Smartphone,Eletronicos,5,1899.9,9499.5,Boleto,ES
+485,2026-05-10,147,Notebook,Eletronicos,5,3499.9,17499.5,PIX,PE
+486,2026-05-11,10,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Crédito,SC
+487,2026-05-11,88,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,ES
+488,2026-05-11,131,Tênis Esportivo,Esporte,1,299.9,299.9,Boleto,GO
+489,2026-05-12,55,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,ES
+490,2026-05-12,114,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Débito,PE
+491,2026-05-13,12,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Crédito,PR
+492,2026-05-13,61,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Débito,RJ
+493,2026-05-13,124,Cadeira Gamer,Móveis,5,899.9,4499.5,PIX,GO
+494,2026-05-13,142,Mochila,Esporte,5,149.9,749.5,PIX,SC
+495,2026-05-14,100,Mochila,Esporte,3,149.9,449.7,Boleto,PR
+496,2026-05-14,112,Relógio Smart,Eletronicos,1,399.9,399.9,Boleto,PR
+497,2026-05-15,53,Cadeira Gamer,Móveis,5,899.9,4499.5,PIX,GO
+498,2026-05-15,66,Mochila,Esporte,3,149.9,449.7,Cartão de Crédito,BA
+499,2026-05-15,79,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,ES
+500,2026-05-15,79,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,GO
+501,2026-05-15,106,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,ES
+502,2026-05-15,106,Camiseta,Esporte,1,79.9,79.9,Cartão de Débito,GO
+503,2026-05-16,4,Fone Bluetooth,Eletronicos,1,199.9,199.9,PIX,MG
+504,2026-05-16,19,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,RS
+505,2026-05-16,50,Mochila,Esporte,2,149.9,299.8,Cartão de Crédito,ES
+506,2026-05-16,100,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,SP
+507,2026-05-17,17,Mochila,Esporte,3,149.9,449.7,PIX,PE
+508,2026-05-17,66,Camiseta,Esporte,5,79.9,399.5,Cartão de Débito,SC
+509,2026-05-18,5,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,MG
+510,2026-05-18,15,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Crédito,BA
+511,2026-05-18,34,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Débito,SC
+512,2026-05-18,63,Smartphone,Eletronicos,1,1899.9,1899.9,Boleto,MG
+513,2026-05-18,134,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,SP
+514,2026-05-18,144,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,ES
+515,2026-05-19,1,Smart TV,Eletronicos,3,2499.9,7499.7,Boleto,RS
+516,2026-05-19,4,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,MG
+517,2026-05-19,59,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,MG
+518,2026-05-19,106,Tênis Esportivo,Esporte,2,299.9,599.8,Boleto,SP
+519,2026-05-19,138,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,GO
+520,2026-05-20,62,Tênis Esportivo,Esporte,3,299.9,899.7,Boleto,RJ
+521,2026-05-20,95,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,SP
+522,2026-05-21,1,Fone Bluetooth,Eletronicos,3,199.9,599.7,Boleto,RJ
+523,2026-05-21,70,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,MG
+524,2026-05-21,121,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,RS
+525,2026-05-21,136,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Crédito,RS
+526,2026-05-22,6,Mochila,Esporte,5,149.9,749.5,PIX,PR
+527,2026-05-22,7,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Crédito,SP
+528,2026-05-22,20,Tênis Esportivo,Esporte,2,299.9,599.8,Boleto,PR
+529,2026-05-22,26,Smartphone,Eletronicos,5,1899.9,9499.5,Boleto,PR
+530,2026-05-22,50,Notebook,Eletronicos,5,3499.9,17499.5,PIX,SC
+531,2026-05-22,64,Tênis Esportivo,Esporte,1,299.9,299.9,Boleto,PE
+532,2026-05-23,66,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Débito,SC
+533,2026-05-23,75,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,GO
+534,2026-05-23,112,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,SC
+535,2026-05-24,35,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,PR
+536,2026-05-24,39,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,GO
+537,2026-05-24,40,Teclado Mecânico,Eletronicos,5,299.9,1499.5,PIX,ES
+538,2026-05-24,48,Mochila,Esporte,3,149.9,449.7,Cartão de Crédito,PE
+539,2026-05-24,107,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Crédito,ES
+540,2026-05-24,126,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,RS
+541,2026-05-24,129,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,PE
+542,2026-05-24,144,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Débito,SC
+543,2026-05-25,84,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Crédito,PE
+544,2026-05-25,89,Relógio Smart,Eletronicos,5,399.9,1999.5,PIX,ES
+545,2026-05-25,93,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Crédito,BA
+546,2026-05-25,147,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,BA
+547,2026-05-26,1,Notebook,Eletronicos,1,3499.9,3499.9,Boleto,PR
+548,2026-05-26,18,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,SP
+549,2026-05-26,22,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,RJ
+550,2026-05-26,97,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Crédito,SC
+551,2026-05-26,137,Camiseta,Esporte,3,79.9,239.7,Boleto,MG
+552,2026-05-27,66,Cadeira Gamer,Móveis,4,899.9,3599.6,Boleto,RS
+553,2026-05-27,110,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Crédito,SP
+554,2026-05-27,121,Relógio Smart,Eletronicos,2,399.9,799.8,PIX,PE
+555,2026-05-28,43,Mochila,Esporte,5,149.9,749.5,Boleto,GO
+556,2026-05-28,105,Mochila,Esporte,3,149.9,449.7,Cartão de Crédito,MG
+557,2026-05-28,144,Camiseta,Esporte,4,79.9,319.6,Cartão de Crédito,PR
+558,2026-05-28,147,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Crédito,GO
+559,2026-05-29,10,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,ES
+560,2026-05-29,61,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Débito,ES
+561,2026-05-30,5,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,SC
+562,2026-05-30,31,Fone Bluetooth,Eletronicos,2,199.9,399.8,Boleto,SC
+563,2026-05-30,34,Mochila,Esporte,3,149.9,449.7,PIX,RJ
+564,2026-05-30,65,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,MG
+565,2026-05-30,77,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,MG
+566,2026-05-31,95,Notebook,Eletronicos,1,3499.9,3499.9,Cartão de Débito,RJ
+567,2026-05-31,106,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,RS
+568,2026-05-31,119,Tênis Esportivo,Esporte,2,299.9,599.8,PIX,SP
+569,2026-06-01,124,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,MG
+570,2026-06-02,22,Teclado Mecânico,Eletronicos,2,299.9,599.8,Boleto,BA
+571,2026-06-02,38,Cadeira Gamer,Móveis,3,899.9,2699.7,Boleto,PE
+572,2026-06-02,132,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Débito,BA
+573,2026-06-03,74,Smartphone,Eletronicos,2,1899.9,3799.8,PIX,GO
+574,2026-06-03,127,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,PR
+575,2026-06-03,143,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Débito,RJ
+576,2026-06-03,145,Mochila,Esporte,1,149.9,149.9,PIX,SC
+577,2026-06-04,38,Mochila,Esporte,1,149.9,149.9,PIX,PE
+578,2026-06-04,143,Cadeira Gamer,Móveis,1,899.9,899.9,Boleto,PE
+579,2026-06-05,64,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,ES
+580,2026-06-05,96,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Crédito,PR
+581,2026-06-05,113,Mochila,Esporte,1,149.9,149.9,Boleto,RS
+582,2026-06-05,120,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,PE
+583,2026-06-05,135,Notebook,Eletronicos,3,3499.9,10499.7,Boleto,GO
+584,2026-06-06,11,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,ES
+585,2026-06-06,12,Cadeira Gamer,Móveis,4,899.9,3599.6,Boleto,MG
+586,2026-06-06,59,Tênis Esportivo,Esporte,4,299.9,1199.6,Cartão de Crédito,PR
+587,2026-06-06,66,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,SC
+588,2026-06-06,124,Mochila,Esporte,3,149.9,449.7,PIX,MG
+589,2026-06-06,128,Smart TV,Eletronicos,2,2499.9,4999.8,PIX,GO
+590,2026-06-06,150,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Débito,RJ
+591,2026-06-07,35,Mochila,Esporte,3,149.9,449.7,PIX,RS
+592,2026-06-07,61,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Crédito,ES
+593,2026-06-07,103,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,SC
+594,2026-06-07,118,Mochila,Esporte,4,149.9,599.6,Boleto,GO
+595,2026-06-07,131,Cadeira Gamer,Móveis,2,899.9,1799.8,Boleto,RJ
+596,2026-06-07,146,Cadeira Gamer,Móveis,3,899.9,2699.7,PIX,MG
+597,2026-06-08,8,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,MG
+598,2026-06-08,88,Smartphone,Eletronicos,3,1899.9,5699.7,PIX,BA
+599,2026-06-09,16,Fone Bluetooth,Eletronicos,2,199.9,399.8,Cartão de Crédito,BA
+600,2026-06-09,120,Smartphone,Eletronicos,5,1899.9,9499.5,PIX,PR
+601,2026-06-09,129,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,MG
+602,2026-06-10,22,Smart TV,Eletronicos,3,2499.9,7499.7,PIX,MG
+603,2026-06-11,118,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,SP
+604,2026-06-11,141,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Crédito,SP
+605,2026-06-12,18,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,MG
+606,2026-06-12,32,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,MG
+607,2026-06-12,35,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,PR
+608,2026-06-12,61,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,SC
+609,2026-06-12,84,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Débito,MG
+610,2026-06-12,91,Camiseta,Esporte,1,79.9,79.9,Boleto,RJ
+611,2026-06-12,127,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,PR
+612,2026-06-12,139,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,GO
+613,2026-06-13,36,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,RS
+614,2026-06-13,61,Teclado Mecânico,Eletronicos,2,299.9,599.8,Cartão de Crédito,GO
+615,2026-06-13,69,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,RJ
+616,2026-06-13,146,Relógio Smart,Eletronicos,4,399.9,1599.6,PIX,RJ
+617,2026-06-14,38,Smartphone,Eletronicos,1,1899.9,1899.9,Boleto,GO
+618,2026-06-14,60,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,PE
+619,2026-06-14,111,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Crédito,RS
+620,2026-06-14,125,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,PR
+621,2026-06-14,135,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,PR
+622,2026-06-15,19,Relógio Smart,Eletronicos,4,399.9,1599.6,PIX,PR
+623,2026-06-15,94,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,SP
+624,2026-06-15,116,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,SC
+625,2026-06-16,76,Camiseta,Esporte,3,79.9,239.7,Cartão de Débito,RS
+626,2026-06-17,48,Mochila,Esporte,2,149.9,299.8,PIX,SC
+627,2026-06-17,120,Smartphone,Eletronicos,1,1899.9,1899.9,PIX,GO
+628,2026-06-17,139,Mochila,Esporte,3,149.9,449.7,PIX,PE
+629,2026-06-18,11,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Débito,PR
+630,2026-06-18,32,Mochila,Esporte,3,149.9,449.7,PIX,ES
+631,2026-06-18,40,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Crédito,SC
+632,2026-06-18,94,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Crédito,GO
+633,2026-06-18,137,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Crédito,ES
+634,2026-06-18,146,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,SP
+635,2026-06-19,4,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,SC
+636,2026-06-19,19,Teclado Mecânico,Eletronicos,3,299.9,899.7,Boleto,PE
+637,2026-06-19,29,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,MG
+638,2026-06-19,37,Smartphone,Eletronicos,2,1899.9,3799.8,PIX,RS
+639,2026-06-19,124,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,GO
+640,2026-06-21,16,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Crédito,BA
+641,2026-06-21,25,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Débito,GO
+642,2026-06-21,43,Camiseta,Esporte,1,79.9,79.9,Boleto,SP
+643,2026-06-21,146,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,PE
+644,2026-06-22,76,Teclado Mecânico,Eletronicos,5,299.9,1499.5,PIX,PR
+645,2026-06-23,31,Cadeira Gamer,Móveis,2,899.9,1799.8,PIX,BA
+646,2026-06-23,47,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,PR
+647,2026-06-23,119,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,RS
+648,2026-06-24,7,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Débito,PE
+649,2026-06-24,70,Teclado Mecânico,Eletronicos,1,299.9,299.9,Boleto,PE
+650,2026-06-24,81,Teclado Mecânico,Eletronicos,4,299.9,1199.6,PIX,ES
+651,2026-06-24,93,Relógio Smart,Eletronicos,1,399.9,399.9,PIX,RS
+652,2026-06-24,114,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Débito,BA
+653,2026-06-24,133,Camiseta,Esporte,4,79.9,319.6,PIX,GO
+654,2026-06-25,17,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,RS
+655,2026-06-25,32,Smartphone,Eletronicos,5,1899.9,9499.5,Boleto,SC
+656,2026-06-25,116,Notebook,Eletronicos,4,3499.9,13999.6,PIX,RS
+657,2026-06-25,119,Fone Bluetooth,Eletronicos,3,199.9,599.7,Boleto,RS
+658,2026-06-25,150,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Débito,RJ
+659,2026-06-26,62,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,GO
+660,2026-06-26,113,Smart TV,Eletronicos,1,2499.9,2499.9,Boleto,SC
+661,2026-06-27,15,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,GO
+662,2026-06-27,25,Relógio Smart,Eletronicos,3,399.9,1199.7,Boleto,PE
+663,2026-06-27,30,Mochila,Esporte,1,149.9,149.9,Cartão de Débito,PE
+664,2026-06-27,30,Tênis Esportivo,Esporte,1,299.9,299.9,PIX,RS
+665,2026-06-27,69,Smart TV,Eletronicos,1,2499.9,2499.9,PIX,BA
+666,2026-06-27,84,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,MG
+667,2026-06-27,88,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Crédito,BA
+668,2026-06-28,15,Smartphone,Eletronicos,5,1899.9,9499.5,Boleto,BA
+669,2026-06-28,96,Mochila,Esporte,2,149.9,299.8,PIX,RJ
+670,2026-06-29,16,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,ES
+671,2026-06-29,19,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,SC
+672,2026-06-29,40,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,SP
+673,2026-06-29,70,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Crédito,RJ
+674,2026-06-29,120,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,SC
+675,2026-06-29,150,Camiseta,Esporte,3,79.9,239.7,Boleto,SC
+676,2026-06-30,66,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Débito,BA
+677,2026-06-30,70,Camiseta,Esporte,1,79.9,79.9,PIX,SP
+678,2026-06-30,76,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Crédito,PE
+679,2026-06-30,90,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Débito,PE
+680,2026-06-30,124,Cadeira Gamer,Móveis,5,899.9,4499.5,Cartão de Crédito,RS
+681,2026-07-01,132,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,RJ
+682,2026-07-02,91,Camiseta,Esporte,2,79.9,159.8,Boleto,BA
+683,2026-07-03,70,Teclado Mecânico,Eletronicos,4,299.9,1199.6,PIX,PE
+684,2026-07-03,118,Fone Bluetooth,Eletronicos,1,199.9,199.9,Boleto,RS
+685,2026-07-04,1,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Crédito,PE
+686,2026-07-04,10,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,GO
+687,2026-07-04,38,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,RJ
+688,2026-07-04,41,Camiseta,Esporte,5,79.9,399.5,PIX,SP
+689,2026-07-04,60,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,GO
+690,2026-07-04,79,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,SP
+691,2026-07-04,83,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Crédito,BA
+692,2026-07-04,120,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,PR
+693,2026-07-05,69,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,RS
+694,2026-07-05,76,Smart TV,Eletronicos,1,2499.9,2499.9,Cartão de Débito,GO
+695,2026-07-05,117,Smart TV,Eletronicos,5,2499.9,12499.5,Boleto,RS
+696,2026-07-05,142,Camiseta,Esporte,4,79.9,319.6,PIX,RJ
+697,2026-07-06,3,Camiseta,Esporte,1,79.9,79.9,Cartão de Crédito,RJ
+698,2026-07-06,52,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Boleto,PR
+699,2026-07-06,86,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Débito,RS
+700,2026-07-07,18,Cadeira Gamer,Móveis,3,899.9,2699.7,Boleto,BA
+701,2026-07-07,99,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,SP
+702,2026-07-07,109,Notebook,Eletronicos,5,3499.9,17499.5,PIX,RS
+703,2026-07-08,24,Camiseta,Esporte,5,79.9,399.5,Cartão de Débito,SP
+704,2026-07-08,84,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Crédito,RS
+705,2026-07-08,148,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,RJ
+706,2026-07-09,19,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,PR
+707,2026-07-09,68,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,MG
+708,2026-07-09,77,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Débito,PE
+709,2026-07-09,97,Cadeira Gamer,Móveis,1,899.9,899.9,PIX,SP
+710,2026-07-09,114,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,SP
+711,2026-07-10,19,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,RJ
+712,2026-07-10,35,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,BA
+713,2026-07-10,39,Camiseta,Esporte,2,79.9,159.8,PIX,ES
+714,2026-07-10,43,Camiseta,Esporte,2,79.9,159.8,Cartão de Débito,MG
+715,2026-07-10,131,Tênis Esportivo,Esporte,2,299.9,599.8,Boleto,RJ
+716,2026-07-11,41,Cadeira Gamer,Móveis,2,899.9,1799.8,Boleto,GO
+717,2026-07-11,53,Smartphone,Eletronicos,3,1899.9,5699.7,PIX,RS
+718,2026-07-11,91,Tênis Esportivo,Esporte,3,299.9,899.7,Boleto,BA
+719,2026-07-11,144,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Crédito,PR
+720,2026-07-11,148,Smart TV,Eletronicos,4,2499.9,9999.6,Cartão de Crédito,RJ
+721,2026-07-12,130,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Débito,MG
+722,2026-07-13,16,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Crédito,SP
+723,2026-07-13,112,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,RJ
+724,2026-07-13,128,Mochila,Esporte,1,149.9,149.9,PIX,BA
+725,2026-07-14,1,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,BA
+726,2026-07-14,100,Mochila,Esporte,3,149.9,449.7,PIX,RJ
+727,2026-07-14,108,Smart TV,Eletronicos,2,2499.9,4999.8,Boleto,PR
+728,2026-07-14,123,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Crédito,MG
+729,2026-07-14,139,Relógio Smart,Eletronicos,2,399.9,799.8,PIX,SC
+730,2026-07-15,36,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,RJ
+731,2026-07-15,40,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Crédito,GO
+732,2026-07-15,77,Relógio Smart,Eletronicos,4,399.9,1599.6,Boleto,MG
+733,2026-07-15,117,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,RJ
+734,2026-07-15,118,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,MG
+735,2026-07-16,48,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,MG
+736,2026-07-16,68,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Crédito,PE
+737,2026-07-16,73,Mochila,Esporte,3,149.9,449.7,Boleto,BA
+738,2026-07-16,85,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,ES
+739,2026-07-17,6,Fone Bluetooth,Eletronicos,3,199.9,599.7,Cartão de Crédito,BA
+740,2026-07-17,10,Tênis Esportivo,Esporte,3,299.9,899.7,Boleto,PE
+741,2026-07-17,27,Mochila,Esporte,3,149.9,449.7,Cartão de Débito,SP
+742,2026-07-17,66,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,SC
+743,2026-07-17,97,Notebook,Eletronicos,5,3499.9,17499.5,PIX,RJ
+744,2026-07-17,134,Cadeira Gamer,Móveis,5,899.9,4499.5,PIX,PR
+745,2026-07-18,32,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,RJ
+746,2026-07-18,52,Tênis Esportivo,Esporte,2,299.9,599.8,Cartão de Débito,PR
+747,2026-07-18,150,Fone Bluetooth,Eletronicos,4,199.9,799.6,PIX,PE
+748,2026-07-19,53,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,MG
+749,2026-07-19,54,Smartphone,Eletronicos,3,1899.9,5699.7,Cartão de Débito,PR
+750,2026-07-19,101,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Crédito,PR
+751,2026-07-19,148,Notebook,Eletronicos,1,3499.9,3499.9,PIX,BA
+752,2026-07-20,3,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,PR
+753,2026-07-20,50,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Crédito,SC
+754,2026-07-20,132,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,MG
+755,2026-07-20,144,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Crédito,RS
+756,2026-07-20,146,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,ES
+757,2026-07-21,11,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,BA
+758,2026-07-21,37,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,MG
+759,2026-07-21,75,Cadeira Gamer,Móveis,3,899.9,2699.7,Boleto,GO
+760,2026-07-21,148,Smart TV,Eletronicos,2,2499.9,4999.8,Cartão de Débito,GO
+761,2026-07-22,37,Smart TV,Eletronicos,5,2499.9,12499.5,Cartão de Débito,SP
+762,2026-07-22,85,Camiseta,Esporte,5,79.9,399.5,PIX,PR
+763,2026-07-22,132,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,PR
+764,2026-07-22,139,Camiseta,Esporte,4,79.9,319.6,Boleto,BA
+765,2026-07-23,59,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,PR
+766,2026-07-24,54,Camiseta,Esporte,4,79.9,319.6,Boleto,BA
+767,2026-07-24,108,Smartphone,Eletronicos,3,1899.9,5699.7,PIX,RS
+768,2026-07-24,149,Mochila,Esporte,4,149.9,599.6,PIX,PE
+769,2026-07-25,64,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,MG
+770,2026-07-25,101,Mochila,Esporte,3,149.9,449.7,Cartão de Débito,BA
+771,2026-07-25,143,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Débito,ES
+772,2026-07-25,143,Teclado Mecânico,Eletronicos,1,299.9,299.9,Boleto,MG
+773,2026-07-26,1,Tênis Esportivo,Esporte,2,299.9,599.8,PIX,RJ
+774,2026-07-26,5,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Débito,PR
+775,2026-07-26,62,Mochila,Esporte,3,149.9,449.7,Boleto,PR
+776,2026-07-26,75,Relógio Smart,Eletronicos,1,399.9,399.9,Boleto,GO
+777,2026-07-26,112,Smart TV,Eletronicos,2,2499.9,4999.8,PIX,GO
+778,2026-07-27,9,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,PR
+779,2026-07-27,47,Teclado Mecânico,Eletronicos,2,299.9,599.8,Cartão de Débito,ES
+780,2026-07-27,50,Relógio Smart,Eletronicos,2,399.9,799.8,Cartão de Débito,ES
+781,2026-07-27,140,Camiseta,Esporte,1,79.9,79.9,Boleto,BA
+782,2026-07-28,91,Notebook,Eletronicos,2,3499.9,6999.8,Boleto,SP
+783,2026-07-28,107,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Débito,SC
+784,2026-07-28,147,Teclado Mecânico,Eletronicos,3,299.9,899.7,Boleto,GO
+785,2026-07-29,9,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,RJ
+786,2026-07-29,11,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,RJ
+787,2026-07-29,44,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,MG
+788,2026-07-29,93,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Crédito,BA
+789,2026-07-29,139,Camiseta,Esporte,4,79.9,319.6,Boleto,ES
+790,2026-07-30,21,Notebook,Eletronicos,4,3499.9,13999.6,Boleto,PR
+791,2026-07-30,60,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Crédito,RS
+792,2026-07-30,65,Smart TV,Eletronicos,1,2499.9,2499.9,PIX,RJ
+793,2026-07-30,89,Smartphone,Eletronicos,4,1899.9,7599.6,Cartão de Crédito,GO
+794,2026-07-30,110,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Crédito,PR
+795,2026-07-30,133,Smartphone,Eletronicos,1,1899.9,1899.9,Cartão de Débito,BA
+796,2026-07-30,142,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Débito,MG
+797,2026-07-31,97,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Débito,PR
+798,2026-07-31,126,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,RS
+799,2026-08-01,18,Cadeira Gamer,Móveis,2,899.9,1799.8,PIX,RJ
+800,2026-08-01,124,Fone Bluetooth,Eletronicos,5,199.9,999.5,Boleto,BA
+801,2026-08-02,1,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,ES
+802,2026-08-03,53,Camiseta,Esporte,3,79.9,239.7,Boleto,PE
+803,2026-08-03,79,Smart TV,Eletronicos,2,2499.9,4999.8,Boleto,SC
+804,2026-08-04,111,Mochila,Esporte,5,149.9,749.5,Boleto,PE
+805,2026-08-04,116,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Débito,MG
+806,2026-08-05,84,Relógio Smart,Eletronicos,5,399.9,1999.5,Boleto,ES
+807,2026-08-06,95,Tênis Esportivo,Esporte,1,299.9,299.9,Cartão de Crédito,MG
+808,2026-08-06,146,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Débito,RS
+809,2026-08-07,125,Mochila,Esporte,4,149.9,599.6,PIX,PE
+810,2026-08-07,142,Smartphone,Eletronicos,2,1899.9,3799.8,Boleto,MG
+811,2026-08-08,1,Smart TV,Eletronicos,2,2499.9,4999.8,PIX,RS
+812,2026-08-08,123,Fone Bluetooth,Eletronicos,1,199.9,199.9,Cartão de Crédito,PR
+813,2026-08-09,3,Mochila,Esporte,2,149.9,299.8,Cartão de Débito,BA
+814,2026-08-09,42,Mochila,Esporte,5,149.9,749.5,Cartão de Crédito,PE
+815,2026-08-10,73,Tênis Esportivo,Esporte,2,299.9,599.8,PIX,SP
+816,2026-08-11,77,Fone Bluetooth,Eletronicos,5,199.9,999.5,Boleto,MG
+817,2026-08-11,107,Mochila,Esporte,4,149.9,599.6,Boleto,RS
+818,2026-08-11,127,Relógio Smart,Eletronicos,2,399.9,799.8,Boleto,PR
+819,2026-08-11,144,Mochila,Esporte,1,149.9,149.9,PIX,MG
+820,2026-08-12,97,Smart TV,Eletronicos,5,2499.9,12499.5,PIX,GO
+821,2026-08-12,102,Tênis Esportivo,Esporte,3,299.9,899.7,Boleto,MG
+822,2026-08-12,150,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,PE
+823,2026-08-13,26,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Crédito,PR
+824,2026-08-13,31,Mochila,Esporte,4,149.9,599.6,PIX,RJ
+825,2026-08-13,35,Notebook,Eletronicos,4,3499.9,13999.6,PIX,RJ
+826,2026-08-13,62,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,BA
+827,2026-08-13,120,Teclado Mecânico,Eletronicos,2,299.9,599.8,Cartão de Débito,PE
+828,2026-08-13,120,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,MG
+829,2026-08-13,150,Fone Bluetooth,Eletronicos,2,199.9,399.8,Boleto,SP
+830,2026-08-14,41,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Débito,GO
+831,2026-08-14,89,Teclado Mecânico,Eletronicos,3,299.9,899.7,Boleto,MG
+832,2026-08-15,19,Camiseta,Esporte,2,79.9,159.8,Cartão de Débito,SP
+833,2026-08-16,3,Notebook,Eletronicos,4,3499.9,13999.6,PIX,SP
+834,2026-08-16,26,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Crédito,GO
+835,2026-08-17,22,Teclado Mecânico,Eletronicos,2,299.9,599.8,Boleto,PR
+836,2026-08-19,52,Mochila,Esporte,1,149.9,149.9,Cartão de Débito,RJ
+837,2026-08-19,133,Smart TV,Eletronicos,3,2499.9,7499.7,PIX,PR
+838,2026-08-20,32,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,MG
+839,2026-08-20,62,Relógio Smart,Eletronicos,1,399.9,399.9,PIX,GO
+840,2026-08-20,110,Mochila,Esporte,4,149.9,599.6,Boleto,SC
+841,2026-08-21,38,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,BA
+842,2026-08-21,134,Smartphone,Eletronicos,4,1899.9,7599.6,PIX,PE
+843,2026-08-22,18,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,PE
+844,2026-08-22,47,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Crédito,RS
+845,2026-08-23,30,Camiseta,Esporte,4,79.9,319.6,Cartão de Crédito,RJ
+846,2026-08-23,54,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Débito,ES
+847,2026-08-24,76,Camiseta,Esporte,4,79.9,319.6,PIX,ES
+848,2026-08-25,31,Teclado Mecânico,Eletronicos,3,299.9,899.7,Cartão de Débito,SC
+849,2026-08-25,50,Notebook,Eletronicos,3,3499.9,10499.7,Cartão de Crédito,SP
+850,2026-08-25,75,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,RS
+851,2026-08-25,82,Smartphone,Eletronicos,3,1899.9,5699.7,Boleto,GO
+852,2026-08-25,129,Fone Bluetooth,Eletronicos,1,199.9,199.9,PIX,RJ
+853,2026-08-26,38,Mochila,Esporte,1,149.9,149.9,Cartão de Débito,GO
+854,2026-08-26,68,Notebook,Eletronicos,2,3499.9,6999.8,Cartão de Crédito,BA
+855,2026-08-26,84,Cadeira Gamer,Móveis,5,899.9,4499.5,Boleto,PE
+856,2026-08-26,86,Smartphone,Eletronicos,5,1899.9,9499.5,Cartão de Crédito,BA
+857,2026-08-26,128,Camiseta,Esporte,3,79.9,239.7,Boleto,MG
+858,2026-08-27,65,Cadeira Gamer,Móveis,5,899.9,4499.5,Boleto,SP
+859,2026-08-27,132,Cadeira Gamer,Móveis,5,899.9,4499.5,Boleto,PR
+860,2026-08-27,134,Mochila,Esporte,4,149.9,599.6,Boleto,GO
+861,2026-08-28,92,Notebook,Eletronicos,1,3499.9,3499.9,PIX,RJ
+862,2026-08-29,54,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Cartão de Crédito,BA
+863,2026-08-29,85,Camiseta,Esporte,4,79.9,319.6,Boleto,ES
+864,2026-08-29,139,Fone Bluetooth,Eletronicos,2,199.9,399.8,PIX,PE
+865,2026-08-30,70,Fone Bluetooth,Eletronicos,5,199.9,999.5,Boleto,BA
+866,2026-08-30,76,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Débito,RJ
+867,2026-08-31,37,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,BA
+868,2026-08-31,83,Camiseta,Esporte,2,79.9,159.8,Boleto,RS
+869,2026-08-31,103,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Débito,ES
+870,2026-08-31,104,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,MG
+871,2026-08-31,114,Teclado Mecânico,Eletronicos,5,299.9,1499.5,Cartão de Débito,RS
+872,2026-08-31,147,Notebook,Eletronicos,3,3499.9,10499.7,PIX,GO
+873,2026-09-01,41,Teclado Mecânico,Eletronicos,4,299.9,1199.6,Boleto,SC
+874,2026-09-01,96,Relógio Smart,Eletronicos,5,399.9,1999.5,Cartão de Débito,SP
+875,2026-09-02,5,Relógio Smart,Eletronicos,3,399.9,1199.7,PIX,PR
+876,2026-09-02,80,Camiseta,Esporte,1,79.9,79.9,PIX,GO
+877,2026-09-02,103,Camiseta,Esporte,4,79.9,319.6,Cartão de Débito,MG
+878,2026-09-02,128,Mochila,Esporte,4,149.9,599.6,Cartão de Crédito,SC
+879,2026-09-02,133,Cadeira Gamer,Móveis,4,899.9,3599.6,Boleto,SP
+880,2026-09-03,30,Mochila,Esporte,5,149.9,749.5,Cartão de Crédito,MG
+881,2026-09-03,43,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,RS
+882,2026-09-04,15,Smartphone,Eletronicos,4,1899.9,7599.6,PIX,PR
+883,2026-09-04,35,Camiseta,Esporte,1,79.9,79.9,Boleto,SC
+884,2026-09-04,77,Smartphone,Eletronicos,5,1899.9,9499.5,PIX,PR
+885,2026-09-04,78,Cadeira Gamer,Móveis,4,899.9,3599.6,PIX,SP
+886,2026-09-04,107,Mochila,Esporte,1,149.9,149.9,Boleto,ES
+887,2026-09-05,10,Fone Bluetooth,Eletronicos,2,199.9,399.8,Boleto,GO
+888,2026-09-05,25,Fone Bluetooth,Eletronicos,3,199.9,599.7,Boleto,BA
+889,2026-09-05,67,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,BA
+890,2026-09-05,91,Teclado Mecânico,Eletronicos,2,299.9,599.8,Boleto,RS
+891,2026-09-06,39,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Crédito,BA
+892,2026-09-06,40,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,SP
+893,2026-09-06,88,Smartphone,Eletronicos,2,1899.9,3799.8,Cartão de Débito,SP
+894,2026-09-06,143,Cadeira Gamer,Móveis,1,899.9,899.9,PIX,GO
+895,2026-09-07,4,Teclado Mecânico,Eletronicos,1,299.9,299.9,PIX,GO
+896,2026-09-07,86,Mochila,Esporte,4,149.9,599.6,PIX,RJ
+897,2026-09-08,5,Smart TV,Eletronicos,3,2499.9,7499.7,Cartão de Crédito,SC
+898,2026-09-08,52,Cadeira Gamer,Móveis,1,899.9,899.9,Cartão de Crédito,MG
+899,2026-09-09,59,Notebook,Eletronicos,1,3499.9,3499.9,Cartão de Débito,GO
+900,2026-09-09,64,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,PE
+901,2026-09-10,25,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Crédito,SC
+902,2026-09-10,93,Fone Bluetooth,Eletronicos,4,199.9,799.6,Boleto,RJ
+903,2026-09-10,100,Mochila,Esporte,1,149.9,149.9,PIX,GO
+904,2026-09-11,79,Camiseta,Esporte,5,79.9,399.5,PIX,PE
+905,2026-09-11,113,Notebook,Eletronicos,2,3499.9,6999.8,Boleto,RJ
+906,2026-09-11,137,Teclado Mecânico,Eletronicos,1,299.9,299.9,Cartão de Débito,MG
+907,2026-09-12,48,Camiseta,Esporte,5,79.9,399.5,Cartão de Crédito,ES
+908,2026-09-12,74,Cadeira Gamer,Móveis,2,899.9,1799.8,Boleto,SC
+909,2026-09-13,10,Fone Bluetooth,Eletronicos,5,199.9,999.5,Cartão de Débito,GO
+910,2026-09-13,24,Teclado Mecânico,Eletronicos,5,299.9,1499.5,PIX,SC
+911,2026-09-13,91,Smartphone,Eletronicos,1,1899.9,1899.9,PIX,BA
+912,2026-09-13,101,Tênis Esportivo,Esporte,3,299.9,899.7,Cartão de Crédito,SP
+913,2026-09-13,102,Mochila,Esporte,2,149.9,299.8,Cartão de Débito,RJ
+914,2026-09-13,135,Camiseta,Esporte,1,79.9,79.9,Cartão de Crédito,PR
+915,2026-09-14,6,Fone Bluetooth,Eletronicos,5,199.9,999.5,PIX,RS
+916,2026-09-14,95,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,SC
+917,2026-09-15,19,Cadeira Gamer,Móveis,2,899.9,1799.8,Cartão de Débito,SP
+918,2026-09-15,67,Relógio Smart,Eletronicos,1,399.9,399.9,Cartão de Crédito,SP
+919,2026-09-15,88,Relógio Smart,Eletronicos,4,399.9,1599.6,Cartão de Crédito,PR
+920,2026-09-16,15,Fone Bluetooth,Eletronicos,4,199.9,799.6,Cartão de Crédito,ES
+921,2026-09-16,106,Mochila,Esporte,4,149.9,599.6,Cartão de Débito,MG
+922,2026-09-17,81,Mochila,Esporte,3,149.9,449.7,Cartão de Débito,PR
+923,2026-09-18,11,Notebook,Eletronicos,4,3499.9,13999.6,Cartão de Crédito,MG
+924,2026-09-19,16,Fone Bluetooth,Eletronicos,3,199.9,599.7,PIX,ES
+925,2026-09-19,61,Teclado Mecânico,Eletronicos,4,299.9,1199.6,PIX,BA
+926,2026-09-19,82,Notebook,Eletronicos,5,3499.9,17499.5,Cartão de Crédito,ES
+927,2026-09-19,113,Camiseta,Esporte,3,79.9,239.7,Boleto,ES
+928,2026-09-20,94,Smart TV,Eletronicos,4,2499.9,9999.6,Boleto,PR
+929,2026-09-20,112,Tênis Esportivo,Esporte,5,299.9,1499.5,Cartão de Débito,GO
+930,2026-09-20,135,Cadeira Gamer,Móveis,3,899.9,2699.7,Cartão de Crédito,SC
+931,2026-09-21,73,Mochila,Esporte,5,149.9,749.5,PIX,RJ
+932,2026-09-21,111,Cadeira Gamer,Móveis,4,899.9,3599.6,Cartão de Crédito,PE
+933,2026-09-21,119,Mochila,Esporte,1,149.9,149.9,Cartão de Crédito,RJ
+934,2026-09-21,129,Smartphone,Eletronicos,5,1899.9,9499.5,PIX,SP
+935,2026-09-22,68,Mochila,Esporte,5,149.9,749.5,Cartão de Débito,PR
+936,2026-09-23,64,Cadeira Gamer,Móveis,5,899.9,4499.5,Boleto,ES
+937,2026-09-24,17,Mochila,Esporte,4,149.9,599.6,PIX,GO
+938,2026-09-24,115,Teclado Mecânico,Eletronicos,2,299.9,599.8,Cartão de Crédito,RJ
+939,2026-09-24,136,Cadeira Gamer,Móveis,4,899.9,3599.6,PIX,SC
+940,2026-09-24,148,Relógio Smart,Eletronicos,3,399.9,1199.7,Cartão de Débito,BA
